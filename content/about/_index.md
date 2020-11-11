@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2020-11-04T21:50:52-05:00
+date: 2020-11-04
 draft: false
 comments: false
 images:
