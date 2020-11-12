@@ -9,7 +9,7 @@ tags:
 ---
 
 Aside from causing my mouth to water, leafing through _East_ makes it clear that
-there will be a lot recipes in the coming weeks that are well outside my comfort zone.
+there will be a lot of recipes in the coming weeks that are well outside my comfort zone.
 Now, nothing is outside my comfort zone to eat. I'm talking about recipes that are going
 to require skills I probably don't have. Chef Sodha is going to ask me to put an egg inside
 a loaf of bread. You might as well be asking me to put the caramel inside the Caramilk bar.
