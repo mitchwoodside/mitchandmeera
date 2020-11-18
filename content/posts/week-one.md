@@ -1,6 +1,6 @@
 ---
 title: "Week One"
-date: 2020-11-11T20:06:24-05:00
+date: 2020-11-17
 draft: false
 toc: false
 images:
