@@ -24,7 +24,7 @@ comprised my work day.
 Making the dish felt a _leeeettle_ bit like I was just burning up spices in the frying
 pan, but when you add water and the peppers it all blends together into the sauce you're
 hoping for. Last month I made some hummus for my parents, and put an extra garlic clove
-in becuase I like it that way. That one extra was all it took to have my Dad leave the
+in because I like it that way. That one extra was all it took to have my Dad leave the
 stuff alone. I'm pretty sure the _Chile Tofu_ would have knocked him out. I use a small,
 toothed dish for crushing my garlic and it was overflowing at the prescribed amount, or 
 better described as the perfect amount.
