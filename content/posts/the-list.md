@@ -9,18 +9,18 @@ images:
 I've listed each dish in _East_ here, and crossed out the ones I've made. Any questions?
 
 __Progress:__  
-13/120 or 11%
+23/120 or 19%
 
 ### Snacks & Small Things
 - Mushroom Bao
 - Sweet Potato Cakes
 - ~~Onigiri~~
-- Chile Salt Pineapple
+- ~~Chile Salt Pineapple~~
 - Celery and Peanut Wontons
 - Mum's Beet and Ginger Soup
 - Potato Dosa
 - Sweet Potato Momos
-- Overnight Soy Eggs
+- ~~Overnight Soy Eggs~~
 - Mushroom Miso Broth
 - Sweet Chile Cashews
 
@@ -30,7 +30,7 @@ __Progress:__
 - ~~Tomato Ponzu Salad~~
 - Chargrilled Summer Vegetables
 - Paneer, Spinach, and Tomato Salad
-- Charred Romain Lettuce
+- ~~Charred Romain Lettuce~~
 - Burmese Mango Salad
 - ~~Asparagus and Snow Peas~~
 - Avocado Kachumbar
@@ -49,7 +49,7 @@ __Progress:__
 - ~~Udon Noodles~~
 - ~~Green Onion and Ginger Noodles~~
 - ~~Pistachio, Pea, and Mint Soba Noodles~~
-- Caramelized Onion and Chile Ramen
+- ~~Caramelized Onion and Chile Ramen~~
 - Food Court Singapore Noodles
 
 ### Curries
@@ -63,14 +63,14 @@ __Progress:__
 - Sweet Potato and Eggplant Massaman Curry
 - Paneer Kofta
 - Eggplant Pollichattu
-- Thai Green Curry
+- ~~Thai Green Curry~~
 - New Potato, Chard, and Coconut Curry
-- Paneer, Tomato, and Kale Saag
+- ~~Paneer, Tomato, and Kale Saag~~
 
 ### Rice
 - Brussels Sprout Nasi Goreng
 - Coconut Rice
-- Kimchi Fried Rice
+- ~~Kimchi Fried Rice~~
 - Egg Fried Rice
 - Spring Pilau
 - ~~Summer Pilau~~
@@ -84,7 +84,7 @@ __Progress:__
 - Black Rice Congee
 
 ### Tofu
-- Scrambled Tofu Akuri
+- ~~Scrambled Tofu Akuri~~
 - Silken Tofu
 - Tempeh
 - Mushroom Mapo Tofu
@@ -125,7 +125,7 @@ __Progress:__
 - ~~Kung Pao Cauliflower~~
 - New Potato Serundeng
 - Roasted Carrots and Cabbage
-- Tandoori Broccoli
+- ~~Tandoori Broccoli~~
 - Tamarind Shallots
 - Nutmeg, Lime, and Coconut Green Beans
 - Blackened Corn
@@ -144,7 +144,7 @@ __Progress:__
 - Pineapple Love Cake
 - Saffron, Almond, and Lemon Cakes
 - Vietnamese Coffee Ice Cream
-- Cardamom Kheer
+- ~~Cardamom Kheer~~
 - Stem Ginger Chocolate Truffles
 - Banana Bread
 - Salted Miso Brownies
